@@ -1,0 +1,6 @@
+# petspiration-search-builder
+a script to populate search records from contentful to algolia
+
+## INSTRUCTION
+set all needed env variables
+then node index.js
