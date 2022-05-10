@@ -1,0 +1,26 @@
+{
+  "name": "petspiration_search_builder",
+  "version": "1.0.0",
+  "description": "transfer contentful things to algolia for search purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "petspiration",
+    "search",
+    "builder",
+    "contentful",
+    "algolia"
+  ],
+  "author": "stationfive",
+  "license": "ISC",
+  "dependencies": {
+    "@contentful/rich-text-plain-text-renderer": "^15.12.1",
+    "algoliasearch": "^4.13.0",
+    "contentful": "^9.1.27",
+    "dotenv": "^16.0.0",
+    "node-fetch": "^3.2.3"
+  },
+  "type": "module"
+}
